@@ -13,6 +13,9 @@ const Footer = ({index}) => {
             <div>
                 Are you {index3} ?
             </div>
+            <div>
+                Yes, I am 26 in Korea!
+            </div>
         </div>
     )
 }
